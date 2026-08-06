@@ -66,6 +66,7 @@ This creates delays, increases administrative burden, and leaves communities in 
 | Amira Niguse | CTC-2988-26 |
 | Aneni Kidanu | CTC-1451-26 |
 | Abenezer Getamesay | CTC-2279-26 |
+| Anteneh Wondwosen | CTC-286-26 |
 
 ---
 
