@@ -47,7 +47,7 @@ An AI-powered geospatial platform detecting emerging economic activity across Et
 > [!IMPORTANT]
 > **5-Minute Video Demo with Voice-Over:**  
 > 🔗 **[Click Here to Watch the Video Presentation](https://youtu.be/your-demo-video-link-here)**  
-> *(Alternative Backup Link: [drive.google.com/your-backup-link](https://drive.google.com/your-backup-link))*
+> *(Alternative Backup Link(https://drive.google.com/your-backup-link))*
 
 ### 5-Minute Presentation Outline & Voice-Over Guide
 1. **0:00 - 1:00 | The Problem:** The critical lag of official economic statistics in Ethiopia (census, business registries) vs. physical growth happening in real time in peripheral and urbanizing zones.
