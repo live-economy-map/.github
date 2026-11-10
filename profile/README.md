@@ -23,7 +23,7 @@ An AI-powered geospatial platform detecting emerging economic activity across Et
 | Requirement | Details & Links |
 | :--- | :--- |
 | **1. GitHub Repositories** | • **Frontend Repo:** [github.com/live-economy-map/frontend](https://github.com/live-economy-map/frontend)<br>• **Backend Repo:** [github.com/live-economy-map/backend](https://github.com/live-economy-map/backend) |
-| **2. Video Presentation** | [🎥 Watch 5-Minute Video Presentation (Voice-Over Demo)](https://youtu.be/your-demo-video-link-here) *(Insert your YouTube / Loom / Google Drive link)* |
+| **2. Video Presentation** | [🎥 Watch 5-Minute Video Presentation (Voice-Over Demo)](https://youtu.be/your-demo-video-link-here)  |
 | **3. Project Information** | Real-time economic activity detection using 4 fused satellite & mobility sources (VIIRS, GHSL, RWI, GDELT) with Groq LLM natural language search, ground-truth case studies, watchlists, Chapa payments, and a public developer API. |
 | **4. Team Information** | 6 Team Members (Full Names & CTC IDs documented below). |
 
